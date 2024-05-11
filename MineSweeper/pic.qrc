@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/flag.jpg</file>
+        <file>image/mine.jpg</file>
+        <file>image/mine0.jpg</file>
+        <file>image/mine1.jpg</file>
+        <file>image/mine2.jpg</file>
+        <file>image/mine3.jpg</file>
+        <file>image/mine4.jpg</file>
+        <file>image/mine5.jpg</file>
+        <file>image/mine6.jpg</file>
+        <file>image/mine7.jpg</file>
+        <file>image/mine8.jpg</file>
+        <file>image/oh!no.jpg</file>
+        <file>image/smile.png</file>
+        <file>image/victory.png</file>
+        <file>image/fail.png</file>
+        <file>image/sleep.png</file>
+        <file>image/dizzy.png</file>
+        <file>image/initial.jpg</file>
+    </qresource>
+</RCC>

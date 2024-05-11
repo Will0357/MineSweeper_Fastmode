@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/grid.o
+release/game.o
+release/setting.o
+release/clickgraphics.o
+release/qrc_pic.o
+release/moc_mainwindow.o
+release/moc_grid.o
+release/moc_game.o
+release/moc_setting.o
+release/moc_clickgraphics.o
